@@ -17,7 +17,7 @@ namespace FOD\DBALClickHouse;
 use Doctrine\DBAL\Connection;
 use Doctrine\DBAL\Driver\Connection as DriverConnection;
 use Doctrine\DBAL\Platforms\AbstractPlatform;
-use DBALClickHouse\Exception\ExceptionConverter;
+use FOD\DBALClickHouse\Exception\ExceptionConverter;
 use Doctrine\DBAL\Schema\AbstractSchemaManager;
 
 /**

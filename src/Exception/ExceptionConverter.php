@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace DBALClickHouse\Exception;
+namespace FOD\DBALClickHouse\Exception;
 
 use Doctrine\DBAL\Driver\API\ExceptionConverter as ExceptionConverterInterface;
 use Doctrine\DBAL\Driver\Exception;
